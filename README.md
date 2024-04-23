@@ -16,7 +16,7 @@ The dataset is preprocessed to ensure consistency in image sizes and formats, an
 
 ## Installation
 
-To run the code in this repository, you need to clone this repository. You can install them using the following command: git clone 
+To run the code in this repository, you need to clone this repository. You can install them using the following command: git clone **https://github.com/Saha1314/NM_6thSem_GenAI.git**
 
 
 ## Steps invloved in the implementation of the project
